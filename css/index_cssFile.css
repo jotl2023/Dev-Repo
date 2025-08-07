@@ -1,0 +1,125 @@
+    
+body
+ {
+  background-color: lightgrey;
+ }
+
+.challenge.container
+ {
+   width:100%;
+   padding:0;
+   position: relative;
+ }
+    
+/*.challenge .container .row div 
+{
+   height:700px;
+   border:2px solid blue;
+   padding:5px;
+}*/
+.mt-5
+{
+  color: purple;
+  font-weight: bold;
+}
+.container .row
+ {
+    
+ }
+.container .mantra
+{
+  font-size: 16px;
+}
+.mantra img
+{
+
+}
+.mantra div
+{
+}
+.mantra div p
+{
+
+}
+
+.styl_img1
+{
+  width: 100%;
+}
+.styl_divbkgrnd 
+{
+  position: bottom;
+  right: 20px;
+  top: 10px;
+  bottom: 20px;
+  background-color: pink;
+}
+.styl_p1
+{
+  top-padding: 50px;
+  bottom-padding: 50px;
+  background-color: black;
+}
+
+.styl_atag
+{
+  width: 100%;
+  text-align: right;
+  top-padding: 10px;
+  color: cadetblue;
+}
+
+.styl_p2
+{
+  background-color: white;
+  text-align: justify;
+  max-width: 600px;
+  margin: auto;
+  width: 100%;
+  padding: 30px 30px 30px 30px;
+}
+
+.reviews
+{
+  text-align: center;
+  font-size: 16px;
+  padding-top: 30px;
+}
+/*.row
+{
+  background-color: white;
+}*/
+
+.col-xs-12 .col-sm-6 .col-md-6 .col-lg-3 .col-xl-3
+{
+  border:5px solid #DFDFDF; 
+  background-color:white; 
+  padding:10px;
+}
+
+h3
+{
+  font-size: 16px;
+  text-align: center;
+  padding-top: 30px;
+  font-weight: bold;
+}
+.review-div1
+{
+  border: 10px solid darkgrey;
+}
+
+.review-div2
+{
+  border:5px solid #DFDFDF; 
+  background-color:white; 
+  padding:10px;
+}
+
+h6
+{
+  font-weight: bold;
+}
+
+
+ 
